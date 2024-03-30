@@ -2184,9 +2184,9 @@ input, select, textarea {
 
 	#header {
 		position: center;
-		background-image: url("../../images/header2.jpg");
+		background-image: url("../../images/header4.jpg");
 		background-size: cover;
-		background-position: center center;
+		background-position: center bottom;
 		background-attachment: fixed;
 		color: #fff;
 		text-align: center;
@@ -2318,8 +2318,8 @@ input, select, textarea {
 				top: 50%;
 				margin-top: -2px;
 				height: 5px;
-				border-top: solid 1px rgba(192, 192, 192, 0.35);
-				border-bottom: solid 1px rgba(192, 192, 192, 0.35);
+				border-top: solid 1px rgb(255, 255, 255);
+				border-bottom: solid 1px rgb(255, 255, 255);
 			}
 
 			#nav > ul:before {
