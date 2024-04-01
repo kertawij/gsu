@@ -2619,6 +2619,7 @@ input, select, textarea {
 				left: -1em;
 				top: 0;
 				width: auto;
+				height: 50px;
 				margin-right: -2em;
 				margin-bottom: 3em;
 			}
